@@ -1,2 +1,3 @@
-# data-playground
-Playground
+# Mein Data Playground
+
+Mein erstes Data-Engineering-Repository!
